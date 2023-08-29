@@ -47,7 +47,7 @@
   <a href="https://www.devmedia.com.br/guia/css/38149" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="13" />
-  <a href="https://www.devmedia.com.br/guia/python/37024" target="_blank">
+  <a href="https://www.python.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="13" />
   <a href="https://www.adobe.com/br/products/aftereffects/campaign/pricing.html" target="_blank">

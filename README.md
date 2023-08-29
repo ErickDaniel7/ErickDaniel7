@@ -41,20 +41,28 @@
   <a href="https://www.devmedia.com.br/javascript/" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="35" alt="javascript logo"  />
   <img width="13" />
+  <a href="https://www.devmedia.com.br/o-que-e-o-html5/25820" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="35" alt="html5 logo"  />
   <img width="13" />
+  <a href="https://www.devmedia.com.br/guia/css/38149" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="35" alt="css3 logo"  />
   <img width="13" />
+  <a href="https://www.devmedia.com.br/guia/python/37024" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="35" alt="python logo"  />
   <img width="13" />
+  <a href="https://www.adobe.com/br/products/aftereffects/campaign/pricing.html" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/aftereffects/aftereffects-original.svg" height="35" alt="aftereffects logo"  />
   <img width="13" />
+  <a href="https://www.adobe.com/br/products/photoshop/landpa.html" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/photoshop/photoshop-plain.svg" height="35" alt="photoshop logo"  />
   <img width="13" />
+  <a href="https://www.adobe.com/br/products/illustrator/campaign/pricing.html" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/illustrator/illustrator-plain.svg" height="35" alt="illustrator logo"  />
   <img width="13" />
+  <a href="https://www.figma.com" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="35" alt="figma logo"  />
   <img width="13" />
+  <a href="https://www.postgresql.org" target="_blank">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="35" alt="postgresql logo"  />
 </div>
 

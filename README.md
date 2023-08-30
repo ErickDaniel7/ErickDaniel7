@@ -76,6 +76,11 @@
 <div align="center">
   
   <img height="350" width="400" src="https://spotify-recently-played-readme.vercel.app/api?user=h8rx53x6ewgov1ttdy6njyyg5" />
+
+  <a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://erick-daniel7-l6mi.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
+</a>
+
   
 </div>
 

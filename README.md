@@ -1,6 +1,6 @@
 <div align="center">
   
-  <img height="150" width="200" src="https://i.imgur.com/oaZbOkK.gif"  /><br>
+  <img height="200" width="250" src="https://i.imgur.com/oaZbOkK.gif"  /><br>
     
   <a href="https://www.youtube.com/@erixkat6541" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
@@ -75,7 +75,7 @@
 
 <div align="center">
   
-  <img height="280" width="330" src="https://spotify-recently-played-readme.vercel.app/api?user=h8rx53x6ewgov1ttdy6njyyg5" />
+  <img height="320" width="360" src="https://spotify-recently-played-readme.vercel.app/api?user=h8rx53x6ewgov1ttdy6njyyg5" />
   
 </div>
 

@@ -1,3 +1,5 @@
+<img src="imagens/Rainbow.gif" width="100%">
+
 <div align="center">
   
   <img height="180" width="230" src="https://i.imgur.com/oaZbOkK.gif"  /><br>
@@ -78,4 +80,6 @@
   <img height="350" width="400" src="https://spotify-recently-played-readme.vercel.app/api?user=h8rx53x6ewgov1ttdy6njyyg5" />
 
 </div>
+
+<img src="imagens/Rainbow.gif" width="100%">
 

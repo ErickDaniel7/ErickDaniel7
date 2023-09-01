@@ -35,10 +35,6 @@
 
 ##
 
-<a href="https://github.com/tthn0/Spotify-Readme">
-  <img src="erick-daniel7.vercel.app/api?theme=dark&scan=true&rainbow=true" alt="Current Spotify Song">
-</a>
-
 <h3 align="center">💻 Tecnologias </h3>
 
 ###

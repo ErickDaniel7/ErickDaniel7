@@ -11,7 +11,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://spotify-readme-pi-puce.vercel.app/api?theme=dark&scan=true&rainbow=true"
+      srcset="https://spotify-readme-pi-puce.vercel.app/api?theme=light&scan=true&rainbow=true"
     />
     <source
       media="(prefers-color-scheme: dark)"

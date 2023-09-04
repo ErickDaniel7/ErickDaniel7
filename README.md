@@ -3,6 +3,10 @@
 <div align="center">
   
   <img height="180" width="230" src="https://i.imgur.com/oaZbOkK.gif"  /><br>
+
+  <a href="https://github.com/tthn0/Spotify-Readme">
+  <img src="https://spotify-readme-pi-puce.vercel.app/api" alt="Current Spotify Song">
+</a>
     
   <a href="https://www.youtube.com/@erixkat6541" target="_blank">
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=000000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />

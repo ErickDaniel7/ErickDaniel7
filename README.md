@@ -43,7 +43,7 @@
 <div align="center">
 
 
-<h3 align="center"> ✍ Biografia </h3>
+<h3 align="center"> <img src="https://img.shields.io/badge/Biografia-000000.svg?style=for-the-badge&logo=Biografia&logoColor=white"></h3>
 
 ###
 
@@ -57,7 +57,7 @@
 
 ##
 
-<h3 align="center">💻 Tecnologias </h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Technologias-000000.svg?style=for-the-badge&logo=Technologias&logoColor=white"> </h3>
 
 ###
  

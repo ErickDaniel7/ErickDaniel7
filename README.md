@@ -5,6 +5,15 @@
   <div align="center">
   <img src="imagens/Perfil.png" alt="Profile Picture">
 </div>
+
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Spyder-IDE&logoColor=white">
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Etsy&logoColor=white">
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=revoltdotchat&logoColor=white">
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Instapaper&logoColor=white">
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Codio&logoColor=white">
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=KaiOS&logoColor=white">
+<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Spyder-IDE&logoColor=white">
+<br>
 <br>
 
   <a href="https://github.com/tthn0/Spotify-Readme">
@@ -38,14 +47,12 @@
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
 </div>
 
-##
-
 <div align="center">
 
+<hr>
 
-<h3 align="center"> <img src="https://img.shields.io/badge/Biografia-000000.svg?style=for-the-badge&logo=Biografia&logoColor=white"></h3>
 
-###
+<h3 align="center"> <img src="https://img.shields.io/badge/Biografia-white?style=for-the-badge&logo=Spyder-IDE&logoColor=white&labelColor=black" height="30"></h3>
 
 <div align="left">
 
@@ -63,21 +70,20 @@ public class MyBio {
 
 </div>
 
-##
-
-<h3 align="center"><img src="https://img.shields.io/badge/Technologias-000000.svg?style=for-the-badge&logo=Technologias&logoColor=white"> </h3>
+<hr>
+<h3 align="center"><img src="https://img.shields.io/badge/Tecnologias-white?style=for-the-badge&logo=Spyder-IDE&logoColor=white&labelColor=black" height="30"> </h3>
 
 ###
  
 <div align="center">
-  <img src="https://img.shields.io/badge/-HTML-black?style=for-the-badge&logo=html5&logoColor=black&labelColor=white">
-  <img src="https://img.shields.io/badge/-CSS-black?style=for-the-badge&logo=css3&logoColor=black&labelColor=white">
-  <img src="https://img.shields.io/badge/-JS-black?style=for-the-badge&logo=javascript&logoColor=black&labelColor=white">
-  <img src="https://img.shields.io/badge/-Java-black?style=for-the-badge&logo=oracle&logoColor=black&labelColor=white">
-  <img src="https://img.shields.io/badge/-Python-black?style=for-the-badge&logo=python&logoColor=black&labelColor=white">
+  <img src="https://img.shields.io/badge/-HTML-white?style=for-the-badge&logo=html5&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-CSS-white?style=for-the-badge&logo=css3&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-JS-white?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black">
+  <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
 </div>
 
-##
+<br>
 
   <div align="center">
   <img src="https://streak-stats.demolab.com?user=ErickDaniel7&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />

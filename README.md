@@ -90,9 +90,9 @@ public class MyBio {
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickDaniel7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ###
-</div><br>
+</div>
 
-<img src="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/snake.svg" alt="Snake animation" width="780" height="200" />
 
 ###
 </br>

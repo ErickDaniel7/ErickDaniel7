@@ -27,15 +27,15 @@
 </a>
     
   <a href="https://www.youtube.com/@erixkat6541" target="_blank">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="youtube logo" />
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="youtube logo" />
   </a>
   <a href="https://www.instagram.com/erickdanielteixeira" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="instagram logo" />
     </a>
   <a href="mailto:erixkat10@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="gmail logo" />
     </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="30" alt="linkedin logo" />
 </div>
 
 ##
@@ -49,9 +49,16 @@
 
 <div align="left">
 
-- 👋 Olá! Sou Erick Daniel Teixeira Vier, estudante de Análise e Desenvolvimento de Sistemas. Estou mergulhando no mundo da programação e buscando aprimorar minhas habilidades. ❤️
-- 🎉 19 Anos
-- 🌐 Programação WEB
+```java
+public class MyBio {
+    public static void main(String[] args) {
+        System.out.println("👋 Olá! Sou Erick Daniel Teixeira Vier, estudante de Análise e Desenvolvimento de Sistemas.
+        Estou mergulhando no mundo da programação e buscando aprimorar minhas habilidades. ❤️");
+        System.out.println("🎉 19 Anos");
+        System.out.println("🌐 Programação WEB");
+    }
+}
+```
 
 </div>
 

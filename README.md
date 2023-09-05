@@ -82,12 +82,14 @@ public class MyBio {
   <img src="https://img.shields.io/badge/-Java-white?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black">
   <img src="https://img.shields.io/badge/-Python-white?style=for-the-badge&logo=python&logoColor=white&labelColor=black">
 </div>
-
+<br>
 <br>
 
   <div align="center">
   <img src="https://streak-stats.demolab.com?user=ErickDaniel7&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickDaniel7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+
+<img src="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/snake.svg" alt="Snake animation" />
 
 ###
 </div><br>

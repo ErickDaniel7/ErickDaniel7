@@ -52,7 +52,8 @@
 ```java
 public class MyBio {
     public static void main(String[] args) {
-        System.out.println("👋 Olá! Sou Erick Daniel Teixeira Vier, estudante de Análise e Desenvolvimento de Sistemas.
+        System.out.println("👋 Olá! Sou Erick Daniel Teixeira Vier.
+        Estudante de Análise e Desenvolvimento de Sistemas.
         Estou mergulhando no mundo da programação e buscando aprimorar minhas habilidades. ❤️");
         System.out.println("🎉 19 Anos");
         System.out.println("🌐 Programação WEB");

@@ -51,7 +51,6 @@
 
 <hr>
 
-
 <h3 align="center"> <img src="https://img.shields.io/badge/Biografia-white?style=for-the-badge&logo=Spyder-IDE&logoColor=white&labelColor=black" height="30"></h3>
 
 <div align="left">
@@ -59,11 +58,11 @@
 ```java
 public class MyBio {
     public static void main(String[] args) {
-        System.out.println("👋 Olá! Sou Erick Daniel Teixeira Vier.
-        Estudante de Análise e Desenvolvimento de Sistemas.
-        Estou mergulhando no mundo da programação e buscando aprimorar minhas habilidades. ❤️");
-        System.out.println("🎉 19 Anos");
-        System.out.println("🌐 Programação WEB");
+        System.out.println("👋 Olá! Sou Erick Daniel Teixeira Vier.");
+        System.out.println("🎉 Tenho 19 anos.");
+        System.out.println("🌆 Sou de Cascavel, Paraná.");
+        System.out.println("🎓 Estou cursando Análise e Desenvolvimento de Sistemas. Na Universidade Paranaense (Unipar).");
+        System.out.println("🚀 Estou mergulhando no mundo da programação e buscando aprimorar minhas habilidades. ❤️");
     }
 }
 ```
@@ -86,16 +85,18 @@ public class MyBio {
 <br>
 
   <div align="center">
-  <img src="https://streak-stats.demolab.com?user=ErickDaniel7&locale=en&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickDaniel7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://streak-stats.demolab.com?user=ErickDaniel7&locale=pt-br&mode=daily&theme=graywhite&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ErickDaniel7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=graywhite&hide_border=false&order=2" height="150" alt="languages graph"  />
 
 ###
 </div>
 
+<details>
+  <summary><h3>Snake Commit</h3></summary>
 <img src="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/snake.svg" alt="Snake animation" width="780" height="200" />
+</details>
 
 ###
-</br>
 
 <div>
   <img src="imagens/Gradients.png" alt="Gradients" width="100%">

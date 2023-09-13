@@ -85,8 +85,8 @@ public class MyBio {
 <br>
 
   <div align="center">
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErickDaniel7&hide_title=false&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false&order=2" height="140" alt="stats graph" />    
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ErickDaniel7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=false&order=2" height="140" alt="languages graph"  />
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ErickDaniel7&hide_title=false&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false&order=2" height="190" alt="stats graph" />    
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ErickDaniel7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=false&order=2" height="190" alt="languages graph"  />
 
 ###
 </div>

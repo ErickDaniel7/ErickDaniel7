@@ -16,6 +16,8 @@
 <br>
 <br>
 
+![My Discord](https://discord-readme-badge.vercel.app/api?id=337384626949718020)
+
   <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
     <source

@@ -25,7 +25,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://spotify-readme-pi-puce.vercel.app/api?theme=light&scan=true&rainbow=true" height="130" "
+      srcset="https://spotify-readme-pi-puce.vercel.app/api?theme=light&scan=true&rainbow=true&" height="130" "
     />
     <source
       media="(prefers-color-scheme: dark)"
@@ -90,16 +90,35 @@ public class MyBio {
 <br>
 
   <div align="center">
-<div align="center"><img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ErickDaniel7&hide_title=false&hide_rank=false&show_icons=true&rank_icon=github&include_all_commits=true&count_private=true&disable_animations=false&theme=graywhite&locale=pt-br&hide_border=false&order=2" height="190" alt="stats graph" />    
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ErickDaniel7&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=10&theme=graywhite&hide_border=false&order=2" height="190" alt="languages graph"  />
+    <div align="center">
+    <img
+       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=red&ring=black&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"
+     />
+  </a>
+</div>
+<img
+      src="https://github-readme-stats-steel-omega.vercel.app/api?username=ErickDaniel7&show_icons=true&include_all_commits=true&icon_color=ff0000&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=github&show=reviews,-dark-mode-only"
+      alt="My Github stats"
+      height="200"
+    />
+  </a>
+    <img
+      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=ErickDaniel7&layout=compact&icon_color=2d77dc&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
+      alt="My Language stats"
+      height="200"
+    />
+  </a>
 
 ###
 </div>
 
+<div align="center">
 <details>
   <summary><h4>Snake Commit</h4></summary>
 <img src="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/snake.svg" alt="Snake animation" width="780" height="200" />
 </details>
+</div>
 
 ###
 

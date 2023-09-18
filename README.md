@@ -110,14 +110,6 @@ public class MyBio {
     />
   </a>
 
-<details>
-<summary>Piada do Dia</summary>
-
-![Piada do Dia](joke.md)
-
-</details>
-
-
 ###
 </div>
 

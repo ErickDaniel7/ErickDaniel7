@@ -110,6 +110,14 @@ public class MyBio {
     />
   </a>
 
+<details>
+<summary>Piada do Dia</summary>
+
+<!-- O conteúdo da piada será inserido aqui via GitHub Actions -->
+
+</details>
+
+
 ###
 </div>
 

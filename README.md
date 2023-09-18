@@ -6,13 +6,14 @@
   <img src="imagens/Perfil.png" alt="Profile Picture">
 </div>
 
-<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Spyder-IDE&logoColor=white" height="25" >
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Etsy&logoColor=white" height="25" >
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=revoltdotchat&logoColor=white" height="25" >
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Instapaper&logoColor=white" height="25" >
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Codio&logoColor=white" height="25" >
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=KaiOS&logoColor=white" height="25" >
-<img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=Spyder-IDE&logoColor=white" height="25" >
+<br>
+<br>
+<img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000">
 <br>
 <br>
 
@@ -56,7 +57,7 @@
 
 <hr>
 
-<h3 align="center"> <img src="https://img.shields.io/badge/Biografia-white?style=for-the-badge&logo=Spyder-IDE&logoColor=white&labelColor=black" height="25"></h3>
+<h3 align="center"> <img src="https://img.shields.io/badge/Biografia-white?style=for-the-badge&logoColor=white&labelColor=black" height="25"></h3>
 
 <div align="left">
 
@@ -75,7 +76,7 @@ public class MyBio {
 </div>
 
 <hr>
-<h3 align="center"><img src="https://img.shields.io/badge/Tecnologias-white?style=for-the-badge&logo=Spyder-IDE&logoColor=white&labelColor=black" height="25"> </h3>
+<h3 align="center"><img src="https://img.shields.io/badge/Tecnologias-white?style=for-the-badge&logoColor=white&labelColor=black" height="25"> </h3>
 
 ###
  

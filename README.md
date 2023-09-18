@@ -113,7 +113,7 @@ public class MyBio {
 <details>
 <summary>Piada do Dia</summary>
 
-<!-- O conteúdo da piada será inserido aqui via GitHub Actions -->
+![Piada do Dia](joke.md)
 
 </details>
 

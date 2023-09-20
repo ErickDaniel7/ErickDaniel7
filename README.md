@@ -13,9 +13,7 @@
 <img src="https://img.shields.io/badge/-black?style=for-the-badge&logo=KaiOS&logoColor=white" height="25" >
 <br>
 <br>
-<img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000">
-<br>
-<br>
+<!-- <img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000"> -->
 
 <div align="center">
   <img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />

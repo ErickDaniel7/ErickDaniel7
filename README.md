@@ -90,23 +90,17 @@ public class MyBio {
 
   <div align="center">
     <div align="center">
-    <img
-       src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=red&ring=black&locale=en&type=svg&hide_border=true"
-       alt="My GitHub streak stats"
-     />
+    <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=red&ring=black&locale=en&type=svg&hide_border=true"
+       alt="My GitHub streak stats"/>
   </a>
 </div>
-<img
-      src="https://github-readme-stats-steel-omega.vercel.app/api?username=ErickDaniel7&show_icons=true&include_all_commits=true&icon_color=ff0000&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&number_format=long&rank_icon=github&show=reviews,-dark-mode-only"
-      alt="My Github stats"
-      height="200"
-    />
+<img src="https://github-readme-stats.vercel.app/api?username=ErickDaniel7&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&rank_icon=github" 
+    alt="Erick github stats" 
+    height="200"/>
   </a>
-    <img
-      src="https://github-readme-stats-steel-omega.vercel.app/api/top-langs/?username=ErickDaniel7&layout=compact&icon_color=2d77dc&title_color=ffffff&text_color=ffffff&bg_color=0d1117&hide_border=true&langs_count=10#gh-dark-mode-only"
-      alt="My Language stats"
-      height="200"
-    />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDaniel7&layout=compact&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=0d1117&langs_count=10" 
+    alt="Erick langs stats"
+    height="200"/>
   </a>
   <hr>
 

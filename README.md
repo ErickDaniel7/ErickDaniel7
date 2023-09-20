@@ -117,7 +117,7 @@ public class MyBio {
 
 <div align="center">
 <details>
-  <summary><h4>Snake Commit</h4></summary>
+  <summary><h4>Snake Commit 🐍</h4></summary>
 <img src="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/snake.svg" alt="Snake animation" width="780" height="200" />
 </details>
 </div>

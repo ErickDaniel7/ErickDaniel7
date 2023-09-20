@@ -90,6 +90,8 @@ public class MyBio {
 <br>
 <br>
 
+<details>
+  <summary><h3>Stats</h3></summary>
   <div align="center">
     <div align="center">
     <img
@@ -110,6 +112,8 @@ public class MyBio {
       height="200"
     />
   </a>
+  </details>
+  <hr>
 
 ###
 </div>

@@ -16,7 +16,9 @@
 <!-- <img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000"> -->
 
 <div align="center">
-  <img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />
+  
+[![Discord Presence](https://lanyard.cnrad.dev/api/337384626949718020?bg=00000000&animated=true&waveColor=8B8BFA&waveSpotifyColor=B48EF7&imgStyle=square&idleMessage=Moscando)](https://discord.com/users/337384626949718020?)
+  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />-->
 </div>
 <br>
 
@@ -55,7 +57,7 @@
 
 <hr>
 
-<h3 align="center"> <img src="https://img.shields.io/badge/Biografia-white?style=for-the-badge&logoColor=white&labelColor=black" height="25"></h3>
+<b align="center"> <img src="https://img.shields.io/badge/Biografia-white?style=for-the-badge&logoColor=white&labelColor=black" height="25"></b>
 
 <div align="left">
 
@@ -74,7 +76,7 @@ public class MyBio {
 </div>
 
 <hr>
-<h3 align="center"><img src="https://img.shields.io/badge/Tecnologias-white?style=for-the-badge&logoColor=white&labelColor=black" height="25"> </h3>
+<b align="center"><img src="https://img.shields.io/badge/Tecnologias-white?style=for-the-badge&logoColor=white&labelColor=black" height="25"> </b>
 
 ###
  
@@ -102,6 +104,12 @@ public class MyBio {
     alt="Erick langs stats"
     height="200"/>
   </a>
+<details>
+  <summary><b>Grafico Contribuições 📈</b></summary>
+  
+  [![Erick github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickDaniel7&bg_color=0d1117&color=ff0000&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+</details>
+    
   <hr>
 
 ###
@@ -109,7 +117,7 @@ public class MyBio {
 
 <div align="center">
 <details>
-  <summary><h4>Snake Commit 🐍</h4></summary>
+  <summary><b>Snake Commit 🐍</b></summary>
 <img src="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/snake.svg" alt="Snake animation" width="780" height="200" />
 </details>
 </div>

@@ -132,7 +132,7 @@ public class MyBio {
   <summary><b>🌠 Wallpaper of the Day</b></summary>
   <br>
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/unknown-pink-sunset-mountain-trees.png height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/f-tam-mountain-wilderness.png height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 </div>
 

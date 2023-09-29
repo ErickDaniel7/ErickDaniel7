@@ -15,6 +15,8 @@
 <br>
 <!-- <img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000"> -->
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Clarendon+Blk+BT&weight=300&size=16&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=450&lines=Com+grandes+poderes+v%C3%AAm+grandes+responsabilidades.)](https://git.io/typing-svg)
+
 <div align="center">
   
 [![Discord Presence](https://lanyard.cnrad.dev/api/337384626949718020?bg=00000000&animated=true&waveColor=8B8BFA&waveSpotifyColor=B48EF7&imgStyle=square&idleMessage=Moscando)](https://discord.com/users/337384626949718020?)

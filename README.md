@@ -109,9 +109,9 @@ public class MyBio {
   
   [![Erick github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickDaniel7&bg_color=0d1117&color=ff0000&line=ffffff&point=000000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
-    
-  <hr>
 
+<hr>
+    
 ###
 </div>
 
@@ -124,19 +124,21 @@ public class MyBio {
 
 </details>
 
----
+<hr>
 
 <div align="center">
 <!-- Random Wallpaper -->
 <details> 
-  <summary><b>🌠 Wallpaper of the Day</b></summary>
+  <summary><b>Wallpaper do dia 🌠</b></summary>
   <br>
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/f-tam-mountain-wilderness.png height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/f-tam-mountain-wilderness.png height=90% width=75% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 </div>
 
 </details>
+
+<hr>
 
 ###
 

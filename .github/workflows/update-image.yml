@@ -4,7 +4,7 @@ on:
   workflow_dispatch:
   schedule:
     # Runs at 1 UTC everyday
-    - cron: "07 15 * * *"
+    - cron: "15 15 * * *"
 
 jobs:
   update-readme:
@@ -13,4 +13,6 @@ jobs:
     steps:
       - uses: siddharth2016/update-readme-image@main
         with:
-          IMG_ALT: Daily Wallpaper
+          IMG_ALT: Image ALT
+          GH_TOKEN: ${{ secrets.GH_TOKEN }}
+          README_REPOSITORY: ErickDaniel7/ErickDaniel7 # No need to mention this if workflow present in current non profile repo.

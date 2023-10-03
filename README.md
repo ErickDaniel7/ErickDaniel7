@@ -128,9 +128,6 @@ public class MyBio {
 
 <hr>
 
-<!--START_SECTION:update_image-->
-<!--END_SECTION:update_image-->
-
 ###
 
 <div>

@@ -28,7 +28,7 @@
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://spotify-readme-pi-puce.vercel.app/api?theme=light&scan=true&rainbow=true&" height="130" "
+      srcset="https://spotify-readme-pi-puce.vercel.app/api?theme=light&scan=true&rainbow=true&" height="115" "
     />
     <source
       media="(prefers-color-scheme: dark)"

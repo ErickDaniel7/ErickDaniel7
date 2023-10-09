@@ -126,6 +126,19 @@ public class MyBio {
 
 </details>
 
+<br>
+
+<div align="center">
+<!-- Random Wallpaper -->
+<details> 
+  <summary><b>🌠 Wallpaper of the Day</b></summary><br>
+<!--START_SECTION:update_image-->
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/ogarart-fortress.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<!--END_SECTION:update_image-->
+
+</details>
+</div>
+
 <hr>
 
 **Code Cycle**<br>

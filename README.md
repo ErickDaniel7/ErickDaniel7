@@ -31,9 +31,8 @@
 
 <div align="center">
   
-<a href="https://portofolio-erickdaniel7.vercel.app" target="_blank" />
-    <img src="https://img.shields.io/static/v1?message=My Personal Portfolio&logo=Alienware&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="40" width="300" alt="Portfolio" /></div>
-    <br>
+<!--<a href="https://portofolio-erickdaniel7.vercel.app" target="_blank" />
+    <img src="https://img.shields.io/static/v1?message=My Personal Portfolio&logo=Alienware&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="40" width="300" alt="Portfolio" /></div>-->
 
 <table align="center">
   <tr>

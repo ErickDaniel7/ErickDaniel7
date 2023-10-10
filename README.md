@@ -23,7 +23,6 @@
   <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />-->
 </div>
 <br>
-<img align="left" src="https://github.com/ErickDaniel7/ErickDaniel7/blob/main/imagens/Spider-esquerdo.gif" width="60" /><img align="right" src="https://github.com/ErickDaniel7/ErickDaniel7/blob/main/imagens/Spider-direito.gif" width="60" />
   <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
     <source

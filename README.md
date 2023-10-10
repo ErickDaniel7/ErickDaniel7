@@ -115,7 +115,8 @@ public class MyBio {
   
   <br>
 
-<!--Grafic-->
+<!--Grafico-->
+<div align="left">
 <details>
   <summary><b>Grafico Contribuições 📈</b></summary><br>
   

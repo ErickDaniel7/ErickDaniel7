@@ -50,7 +50,7 @@
       srcset="https://spotify-readme-pi-puce.vercel.app/api?theme=light&scan=true&rainbow=true" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-readme-pi-puce.vercel.app/api?theme=light&scan=true&rainbow=true" height="180" width="550"
+      srcset="https://spotify-readme-pi-puce.vercel.app/api?theme=dark&scan=true&rainbow=true" height="180" width="550"
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
   </picture></tr></td>

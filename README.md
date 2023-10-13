@@ -142,7 +142,7 @@ public class MyBio {
 <details> 
   <summary><b>Wallpaper of the Day 🌠</b></summary><br>
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/unknown-purple-mountain-landscape-with-ship.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/junhyuk-lim-acoolrocket-tree-of-life-edit.png height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 </details>
 </div>

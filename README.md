@@ -47,10 +47,10 @@
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://spotify-readme-two-ivory.vercel.app/api?theme=light&scan=true&rainbow=true" />
+      srcset="https://spotify-readme-erickdaniel7.vercel.app/api?theme=light&scan=true&rainbow=true" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-readme-two-ivory.vercel.app/api?theme=dark&scan=true&rainbow=true" height="180" width="550"
+      srcset="https://spotify-readme-erickdaniel7.vercel.app/api?theme=dark&scan=true&rainbow=true" height="180" width="550"
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
   </picture></tr></td>

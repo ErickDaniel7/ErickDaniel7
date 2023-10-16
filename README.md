@@ -39,23 +39,22 @@
     <td>
   <a href="https://discord.com/users/337384626949718020?">
 <img align="left" src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=0d1117&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="180" width="400">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
-<td>
   
-<!--Spotfy-->
-<div align="right">
+<!--Spotify-->
+<!--<div align="right">
   <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://spotify-readme-chi-six.vercel.app/api?theme=light&scan=true&rainbow=true" />
+      srcset="https://currentlymusic.vercel.app/api?theme=light&scan=true&rainbow=true" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-readme-chi-six.vercel.app/api?theme=dark&scan=true&rainbow=true" height="180" width="550"
+      srcset="https://currentlymusic.vercel.app/api?theme=dark&scan=true&rainbow=true" height="180" width="550"
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
-  </picture></tr></td>
-</a>
-</div></td></tr></table>
+  <!--</picture></tr></td>
+</a>-->
+</div></table>
 
 <br>
 

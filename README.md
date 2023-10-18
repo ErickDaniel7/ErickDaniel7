@@ -34,7 +34,7 @@
 <!--<a href="https://portofolio-erickdaniel7.vercel.app" target="_blank" />
     <img src="https://img.shields.io/static/v1?message=My Personal Portfolio&logo=Alienware&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="40" width="300" alt="Portfolio" /></div>-->
 
-<table align="center">
+<!--<table align="center">
   <tr>
     <td>
   <a href="https://discord.com/users/337384626949718020?">

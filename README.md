@@ -23,16 +23,22 @@
 
 <br>
 
-<!--Discord-->
 <div align="center">
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Clarendon+Blk+BT&weight=300&size=16&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=450&lines=Com+grandes+poderes+v%C3%AAm+grandes+responsabilidades.)](https://git.io/typing-svg)
 </div>
 
+<!--<div align="center">
+  
+<a href="https://portofolio-erickdaniel7.vercel.app" target="_blank" />
+    <img src="https://img.shields.io/static/v1?message=My Personal Portfolio&logo=Alienware&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="40" width="300" alt="Portfolio" /></div><br>
+
 <div align="center">
   
-<!--<a href="https://portofolio-erickdaniel7.vercel.app" target="_blank" />
-    <img src="https://img.shields.io/static/v1?message=My Personal Portfolio&logo=Alienware&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="40" width="300" alt="Portfolio" /></div>-->
+<details>
+  <summary><b>QRCode Portfolio</b></summary><br>
+    <img src="https://github.com/ErickDaniel7/ErickDaniel7/blob/main/imagens/qrcode_portfolio.png" height="200" />
+</details></div>-->
 
 <!--<table align="center">
   <tr>
@@ -53,10 +59,9 @@
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
   <!--</picture></tr></td>
-</a>-->
-</div></table>
+</a>
+</div></table>-->
 
-<br>
 
 <!--Tools-->
 <div align="center">

@@ -29,7 +29,6 @@
 </div>
 
 <!--<div align="center">
-  
 <a href="https://portofolio-erickdaniel7.vercel.app" target="_blank" />
     <img src="https://img.shields.io/static/v1?message=My Personal Portfolio&logo=Alienware&label=&color=white&logoColor=black&labelColor=&style=for-the-badge" height="40" width="300" alt="Portfolio" /></div><br>
 
@@ -40,28 +39,31 @@
     <img src="https://github.com/ErickDaniel7/ErickDaniel7/blob/main/imagens/qrcode_portfolio.png" height="200" />
 </details></div>-->
 
-<!--<table align="center">
+<!--Discord-->
+<table align="center">
   <tr>
     <td>
   <a href="https://discord.com/users/337384626949718020?">
 <img align="left" src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=0d1117&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="180" width="400">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
+<td>
   
 <!--Spotify-->
-<!--<div align="right">
+<div align="right">
   <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
     <source
       media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://currentlymusic.vercel.app/api?theme=light&scan=true&rainbow=true" />
+      srcset="https://spotify-amber-kappa.vercel.app/api?theme=light&scan=true&rainbow=true" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://currentlymusic.vercel.app/api?theme=dark&scan=true&rainbow=true" height="180" width="550"
+      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true" height="180" width="550"
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
-  <!--</picture></tr></td>
+  </picture></tr></td>
 </a>
-</div></table>-->
+</div></td></tr></table>
 
+<br>
 
 <!--Tools-->
 <div align="center">

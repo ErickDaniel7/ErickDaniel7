@@ -56,7 +56,7 @@
       srcset="https://spotify-amber-kappa.vercel.app/api?theme=light&scan=true&rainbow=true" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true" height="180" width="580"
+      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" height="180" width="580"
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
   </picture></tr></td>

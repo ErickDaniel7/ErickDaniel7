@@ -23,10 +23,6 @@
 
 <br>
 
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Clarendon+Blk+BT&weight=300&size=16&pause=1000&color=FFFFFF&background=FFFFFF00&center=true&vCenter=true&multiline=true&width=450&lines=Com+grandes+poderes+v%C3%AAm+grandes+responsabilidades.)](https://git.io/typing-svg)
-</div>
 
 <!--<div align="center">
 <a href="https://portofolio-erickdaniel7.vercel.app" target="_blank" />

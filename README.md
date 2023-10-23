@@ -40,7 +40,7 @@
   <tr>
     <td>
   <a href="https://discord.com/users/337384626949718020?">
-<img align="left" src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=0d1117&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="180" width="380">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
+<img align="left" src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="180" width="380">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
 <td>
   
 <!--Spotify-->
@@ -94,14 +94,14 @@ public class MyBio {
 <!--Streak-->
 <br>
     <div align="left">
-    <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=0d1117&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=red&ring=black&locale=en&type=svg&hide_border=false"
+    <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=161B22&currStreakNum=ffffff&sideNums=red&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=red&ring=black&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"/>
   </a>
 </div>
 
 <!--Commit-->
 <div align="left">
-<img src="https://github-readme-stats.vercel.app/api?username=ErickDaniel7&show_icons=true&count_private=true&hide_border=false&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=0d1117&rank_icon=github" 
+<img src="https://github-readme-stats.vercel.app/api?username=ErickDaniel7&show_icons=true&count_private=true&hide_border=true&title_color=ff0000&icon_color=ff0000&text_color=ffffff&bg_color=161B22&rank_icon=github" 
     alt="Erick github stats" 
     height="200"/>
 </a>
@@ -109,7 +109,7 @@ public class MyBio {
 
   <!--Languages-->
   <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDaniel7&layout=compact&hide_border=false&title_color=ff0000&text_color=ffffff&bg_color=0d1117&langs_count=10" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDaniel7&layout=compact&hide_border=true&title_color=ff0000&text_color=ffffff&bg_color=161B22&langs_count=10" 
     alt="Erick langs stats"
     height="200"/>
   </div>

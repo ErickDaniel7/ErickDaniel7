@@ -117,7 +117,7 @@ public class MyBio {
 <details>
   <summary><b>Grafico Contribuições 📈</b></summary><br>
   
-  [![Erick github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickDaniel7&bg_color=0d1117&color=ff0000&line=ffffff&point=000000&area=true&hide_border=false)](https://github.com/ashutosh00710/github-readme-activity-graph)
+  [![Erick github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickDaniel7&bg_color=161B22&color=ff0000&line=ffffff&point=000000&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
 
 ###

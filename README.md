@@ -126,14 +126,10 @@ public class MyBio {
 </details>
 </div>
 <hr>
+
+
 <!--Code Cicle Emoji-->
 <div align="center">
-
-⏳ Year progress { ████████████████████████▁▁▁▁▁▁ } 81.03 %
-
-⏰ Updated on Mon, 23 Oct 2023 18:09:56 GMT
-
-<hr>
   
 **Code Cycle**<br>
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Face%20with%20Spiral%20Eyes.png" width="10%" alt="Broken system!"/>

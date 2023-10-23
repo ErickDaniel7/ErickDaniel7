@@ -37,7 +37,7 @@
 
 <!--Discord-->
  <a href="https://discord.com/users/337384626949718020?">
-<img align="left" src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="180" width="412">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
+<img align="left" src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="180" width="312">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
   
 <!--Spotify-->
 <div align="right">
@@ -48,7 +48,7 @@
       srcset="https://spotify-amber-kappa.vercel.app/api?theme=light&scan=true&rainbow=true" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" height="180" width="580"
+      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" height="180" width="480"
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
   </picture>

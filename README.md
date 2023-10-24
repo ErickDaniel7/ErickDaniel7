@@ -18,6 +18,7 @@
  
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=0077B5&labelColor=black&style=for-the-badge" height="25" alt="linkedin logo" />
 </div>
+
 <br>
 
 <!--<div align="center">
@@ -28,36 +29,6 @@
     <img src="https://github.com/ErickDaniel7/ErickDaniel7/blob/main/imagens/qrcode_portfolio.png" height="200" />
 </details></div>-->
 
-<!--Discord-->
-<div align="left"
- <a href="https://discord.com/users/337384626949718020?">
-<img align="left" src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="180" width="342">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
-
-<!--Spotify-->
-<div align="right">
-  <a href="https://github.com/tthn0/Spotify-Readme">
-  <picture>
-    <source
-      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
-      srcset="https://spotify-amber-kappa.vercel.app/api?theme=light&scan=true&rainbow=true" />
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" height="180" width="480"
-    />
-    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
-  </picture>
-</a>
-<br>
-<br>
-<!--Tools-->
-<div align="center">
-  <img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=E44D26&labelColor=black" height="25">
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black" height="25">
-<img src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black" height="25">
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=oracle&logoColor=007396&labelColor=black" height="25">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black" height="25">
-</div>
-<br>
 <!--Bio-->
 <div align="left">
   
@@ -73,14 +44,53 @@ public class MyBio {
 }
 ```
 </div>
-<!-- <img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000"> -->
-<!--Streak-->
+
 <br>
+
+<!--Tools-->
+<div align="center">
+  <img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=E44D26&labelColor=black" height="25">
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black" height="25">
+<img src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black" height="25">
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=oracle&logoColor=007396&labelColor=black" height="25">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black" height="25">
+</div>
+
+<br>
+
+<!--Discord-->
+<div align="left">
+ <a href="https://discord.com/users/337384626949718020?">
+<img align="left" src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="180" width="342">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
+
+<br>
+
+<!--Spotify-->
+<div align="left">
+  <a href="https://github.com/tthn0/Spotify-Readme">
+  <picture>
+    <source
+      media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+      srcset="https://spotify-amber-kappa.vercel.app/api?theme=light&scan=true&rainbow=true" />
+    <source
+      media="(prefers-color-scheme: dark)"
+      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" height="180" width="480"
+    />
+    <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
+  </picture>
+  </div>
+</a>
+
+<!-- <img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000"> -->
+
+<br>
+<!--Streak-->
     <div align="left">
     <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=161B22&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=white&ring=5D99FE&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"/>
   </a>
 </div>
+
 <!--Commit-->
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ErickDaniel7&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=ffffff&bg_color=161B22&rank_icon=github" 
@@ -88,6 +98,7 @@ public class MyBio {
     height="200"/>
 </a>
 </div>
+
   <!--Languages-->
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDaniel7&layout=compact&hide_border=true&title_color=&text_color=ffffff&bg_color=161B22&langs_count=10" 
@@ -97,6 +108,7 @@ public class MyBio {
   </a>
   
   <br>
+  
 <!--Grafico-->
 <div align="left">
 <details>
@@ -127,7 +139,6 @@ public class MyBio {
 </details>
 </div>
 <hr>
-
 
 <!--Code Cicle Emoji-->
 <div align="center">

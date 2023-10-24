@@ -45,10 +45,12 @@ public class MyBio {
 ```
 </div>
 
-<br>
+<hr>
 
 <!--Tools-->
 <div align="center">
+<b>Languages ​​I have fun with</b> <br>
+  <br>
   <img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=E44D26&labelColor=black" height="25">
 <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black" height="25">
 <img src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black" height="25">
@@ -56,12 +58,12 @@ public class MyBio {
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black" height="25">
 </div>
 
-<br>
+<hr><br>
 
 <!--Discord-->
 <div align="left">
  <a href="https://discord.com/users/337384626949718020?">
-<img align="left" src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="180" width="342">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
+<img src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="200" width="432">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
 
 <br>
 
@@ -74,7 +76,7 @@ public class MyBio {
       srcset="https://spotify-amber-kappa.vercel.app/api?theme=light&scan=true&rainbow=true" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" height="180" width="480"
+      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" height="200" width="480"
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
   </picture>

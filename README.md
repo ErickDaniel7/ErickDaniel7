@@ -63,7 +63,7 @@ public class MyBio {
 <!--Discord-->
 <div align="left">
  <a href="https://discord.com/users/337384626949718020?">
-<img src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="200" width="432">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
+<img src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="200" width="480">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
 
 <br>
 
@@ -89,7 +89,9 @@ public class MyBio {
 <!--Streak-->
     <div align="left">
     <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=161B22&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=white&ring=5D99FE&locale=en&type=svg&hide_border=true"
-       alt="My GitHub streak stats"/>
+       alt="My GitHub streak stats"
+       height="200"
+       width="480"/>
   </a>
 </div>
 
@@ -97,15 +99,17 @@ public class MyBio {
 <div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ErickDaniel7&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=ffffff&bg_color=161B22&rank_icon=github" 
     alt="Erick github stats" 
-    height="200"/>
+    height="200"
+    width="480"/>
 </a>
 </div>
 
   <!--Languages-->
   <div align="left">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDaniel7&layout=compact&hide_border=true&title_color=&text_color=ffffff&bg_color=161B22&langs_count=10" 
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDaniel7&layout=compact&card_width=495&hide_border=true&title_color=&text_color=ffffff&bg_color=161B22&langs_count=10" 
     alt="Erick langs stats"
-    height="200"/>
+    height="200"
+    width="480"/>
   </div>
   </a>
   

@@ -75,13 +75,13 @@ public class MyBio {
 <hr>
 
 <!--Discord-->
-<h4>Discord 🎮</h4>
+<h3>Discord 🎮</h3>
 <div align="left">
  <a href="https://discord.com/users/337384626949718020?">
 <img src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="200" width="350">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
 
 <!--Spotify-->
-<h4>Listening 🎧</h4>
+<h3>Listening 🎧</h3>
 <div align="left">
   <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
@@ -90,7 +90,7 @@ public class MyBio {
       srcset="https://spotify-amber-kappa.vercel.app/api?theme=light&scan=true&rainbow=true" />
     <source
       media="(prefers-color-scheme: dark)"
-      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" height="200" width="480"
+      srcset="https://spotify-amber-kappa.vercel.app/api?theme=dark&scan=true&rainbow=true&spin=true" height="160" width="480"
     />
     <img alt="Current Spotify Song"> <!-- https://github.com/tthn0/Spotify-Readme -->
   </picture>
@@ -100,7 +100,7 @@ public class MyBio {
 <!-- <img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000"> -->
 
 <!--Streak-->
-<h4>Contributions 📉</h4>
+<h3>Contributions 📉</h3>
     <div align="left">
     <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=161B22&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=white&ring=5D99FE&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"

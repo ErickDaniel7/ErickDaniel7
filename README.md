@@ -8,18 +8,17 @@
   
 <!--Social Media-->
 <a href="https://www.youtube.com/@erixkat6541" target="_blank" />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=FF0000&labelColor=black&style=for-the-badge" height="25" alt="youtube logo" /></a>
+  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=black&style=for-the-badge" height="27" alt="youtube logo" /></a>
 
   <a href="https://www.instagram.com/erickdanielteixeira" target="_blank" />
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=BC2A8D&logoColor=BC2A8D&labelColor=black&style=for-the-badge" height="25" alt="instagram logo" /></a>
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=BC2A8D&logoColor=white&labelColor=black&style=for-the-badge" height="27" alt="instagram logo" /></a>
   
   <a href="mailto:erixkat10@gmail.com" target="_blank" />
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=DB4437&logoColor=DB4437&labelColor=black&style=for-the-badge" height="25" alt="gmail logo" /></a>
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=DB4437&logoColor=white&labelColor=black&style=for-the-badge" height="27" alt="gmail logo" /></a>
  
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=0077B5&labelColor=black&style=for-the-badge" height="25" alt="linkedin logo" />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=black&style=for-the-badge" height="27" alt="linkedin logo" />
 </div>
 
-<br>
 
 <!--<div align="center">
   <details>
@@ -31,6 +30,7 @@
 
 <!--Bio-->
 <div align="left">
+<h3>Bio 🌎</h3>
   
 ```java
 public class MyBio {
@@ -49,25 +49,39 @@ public class MyBio {
 
 <!--Tools-->
 <div align="center">
-<b>Languages ​​I have fun with</b> <br>
-  <br>
-  <img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=E44D26&labelColor=black" height="25">
-<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=1572B6&labelColor=black" height="25">
-<img src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=F7DF1E&labelColor=black" height="25">
-<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=oracle&logoColor=007396&labelColor=black" height="25">
-<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=3776AB&labelColor=black" height="25">
-</div>
+  <details> 
+<summary>═ㅤ<b>Languages ​​and tools</b></summary>
+   <h4>Languages ​​I have fun with 🤪</h4>
+<img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/-JS-F7DF1E?style=for-the-badge&logo=javascript&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=oracle&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black" height="27">
+<br>
+<h4>Tools I use 🛠️</h4>
+<img src="https://img.shields.io/badge/Figma-F24E1E.svg?style=for-the-badge&logo=Figma&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/Vercel-000000.svg?style=for-the-badge&logo=Vercel&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/diagrams.net-F08705.svg?style=for-the-badge&logo=diagramsdotnet&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?style=for-the-badge&logo=Visual-Studio-Code&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/Microsoft%20Office-D83B01.svg?style=for-the-badge&logo=Microsoft-Office&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/Adobe-FF0000.svg?style=for-the-badge&logo=Adobe&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/Heroku-430098.svg?style=for-the-badge&logo=Heroku&logoColor=white&labelColor=black" height="27">
+<img src="https://img.shields.io/badge/VirtualBox-183A61.svg?style=for-the-badge&logo=VirtualBox&logoColor=white&labelColor=black" height="27">
+</div></details>
 
-<hr><br>
+<hr>
 
 <!--Discord-->
+<h4>Discord 🎮</h4>
 <div align="left">
  <a href="https://discord.com/users/337384626949718020?">
-<img src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="200" width="480">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
-
-<br>
+<img src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="200" width="350">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
 
 <!--Spotify-->
+<h4>Listening 🎧</h4>
 <div align="left">
   <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
@@ -85,8 +99,8 @@ public class MyBio {
 
 <!-- <img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000"> -->
 
-<br>
 <!--Streak-->
+<h4>Contributions 📉</h4>
     <div align="left">
     <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=161B22&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=white&ring=5D99FE&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"
@@ -118,7 +132,7 @@ public class MyBio {
 <!--Grafico-->
 <div align="left">
 <details>
-  <summary><b>Grafico Contribuições 📈</b></summary><br>
+  <summary>═ㅤ<b>Grafico Contribuições 📈</b></summary><br>
   
   [![Erick github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickDaniel7&bg_color=161B22&color=5D99FE&line=ffffff&point=000000&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
@@ -128,7 +142,7 @@ public class MyBio {
 <!--Snake Commit-->
 <div align="left">
 <details>
-  <summary><b>Snake Commit 🐍</b></summary>
+  <summary>═ㅤ<b>Snake Commit 🐍</b></summary>
 <img src="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/snake.svg" alt="Snake animation" width="100%" height="100%" />
 </details>
   
@@ -138,13 +152,29 @@ public class MyBio {
 <div align="left">
 <!-- Random Wallpaper -->
 <details> 
-  <summary><b>Wallpaper of the Day 🌠</b></summary><br>
+  <summary>═ㅤ<b>Wallpaper of the Day 🌠</b></summary><br>
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/rmradev-mountains.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 </details>
 </div>
-<hr>
+
+<br>
+
+```css
+> 💻 My Hardware 
+```
+
+```css
+👑 Motherboard     ~ MSI B550M PRO-VDH WiFi
+🚀 Processor     ~  Ryzen 5 5600G
+🎮 GPU   ~  RTX 3060 Asus Dual O12G V2 NVIDIA GeForce, 12GB 
+💾 RAM   ~  Husky Gaming Avalanche, 16GB, 3200MHz, DDR4 (2x8GB)
+📁 Storage   ~  SSD 256GB Husky Gaming, M.2 NVMe - SSD Kingston A400 SATA 480GB - HD Seagate BarraCuda 2TB (2x1TB)
+💎 Operational system   ~  Windows 11 Pro 22H2
+```
+
+<br>
 
 <!--Code Cicle Emoji-->
 <div align="center">
@@ -156,6 +186,7 @@ public class MyBio {
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Astonished%20Face.png" width="10%" alt="It's working but you don't know how!"/><br></div>
 ###
+
 <!--Gradient-->
 <div>
   <img src="imagens/Gradients.png" alt="Gradients" width="100%">

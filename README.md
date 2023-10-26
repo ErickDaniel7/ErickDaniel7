@@ -171,11 +171,14 @@ public class MyBio {
 ```
 
 ```css
-👑 Motherboard     ~ MSI B550M PRO-VDH WiFi
-🚀 Processor     ~  Ryzen 5 5600G
+🏢 PC case   ~  Hyrax HGB200, ATX, Preto 
+👑 Motherboard   ~  MSI B550M PRO-VDH WiFi
+🚀 Processor   ~  Ryzen 5 5600G
+💧 Water Cooler   ~  Water Cooler Gamer Rise Mode, ARGB, 240mm, Preto
 🎮 GPU   ~  RTX 3060 Asus Dual O12G V2 NVIDIA GeForce, 12GB 
 💾 RAM   ~  Husky Gaming Avalanche, 16GB, 3200MHz, DDR4 (2x8GB)
 📁 Storage   ~  SSD 256GB Husky Gaming, M.2 NVMe - SSD Kingston A400 SATA 480GB - HD Seagate BarraCuda 2TB (2x1TB)
+🔌 PSU   ~  Fonte, Corsair CV750, 750W, 80 Plus Bronze
 💎 Operational system   ~  Windows 11 Pro 22H2
 ```
 

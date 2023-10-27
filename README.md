@@ -185,6 +185,11 @@ public class MyBio {
 💎 Operational system   ~  Windows 11 Pro 22H2
 ```
 
+<!--<p><pre align="center">
+  <strong>..: Sugato Ray :..</strong> 
+  ---
+  <a href="https://twitter.com/sugatoray"><kbd>Twitter</kbd></a> | <a href="https://www.linkedin.com/in/sugatoray/"><kbd>LinkedIn</kbd></a> | <a href="https://www.reddit.com/user/sugatoray/submitted/?sort=top"><kbd>Reddit</kbd></a> | <a href="https://github.com/sugatoray"><kbd>GitHub</kbd></a> | <a href="https://gist.github.com/sugatoray"><kbd>Gist</kbd></a> | <a href="https://stackoverflow.com/users/8474894/cypherx"><kbd>Stack Overflow</kbd></a> </pre></p>-->
+
 <br>
 
 <!--Code Cicle Emoji-->

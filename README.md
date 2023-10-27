@@ -74,6 +74,9 @@ public class MyBio {
 
 <hr>
 
+<!--<img src="https://myreadme.vercel.app/api/embed/ErickDaniel7?panels=userstatistics,toprepositories,toplanguages,commitgraph&bg=161B22&theme=dark" alt="reimaginedreadme" />-->
+
+
 <!--Discord-->
 <h3>Discord 🎮</h3>
 <div align="left">

@@ -168,7 +168,7 @@ public class MyBio {
 <details> 
   <summary>═ㅤ<b>Wallpaper of the Day 🌠</b></summary><br>
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/altos-odyssey-balloon-over-blue-mountains.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/era7-city-of-the-amethyst-nights.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 </details>
 </div>

@@ -175,14 +175,13 @@ public class MyBio {
 </details>
 </div>
 
-<br>
-
+<!--
 ```css
 > 💻 My Hardware 
 ```
-
+<!--
 ```css
-🏢 PC case   ~  Hyrax HGB200, ATX, Preto 
+🏢 PC case   ~  Rise Mode Glass 06X 
 👑 Motherboard   ~  MSI B550M PRO-VDH WiFi
 🚀 Processor   ~  Ryzen 5 5600G
 💧 Water Cooler   ~  Water Cooler Gamer Rise Mode, ARGB, 240mm, Preto
@@ -192,13 +191,15 @@ public class MyBio {
 🔌 PSU   ~  Fonte, Corsair CV750, 750W, 80 Plus Bronze
 💎 Operational system   ~  Windows 11 Pro 22H2
 ```
-
+-->
 <!--<p><pre align="center">
   <strong>..: Sugato Ray :..</strong> 
   ---
   <a href="https://twitter.com/sugatoray"><kbd>Twitter</kbd></a> | <a href="https://www.linkedin.com/in/sugatoray/"><kbd>LinkedIn</kbd></a> | <a href="https://www.reddit.com/user/sugatoray/submitted/?sort=top"><kbd>Reddit</kbd></a> | <a href="https://github.com/sugatoray"><kbd>GitHub</kbd></a> | <a href="https://gist.github.com/sugatoray"><kbd>Gist</kbd></a> | <a href="https://stackoverflow.com/users/8474894/cypherx"><kbd>Stack Overflow</kbd></a> </pre></p>-->
 
-<br>
+<!--<br>-->
+
+<hr>
 
 <!--Code Cicle Emoji-->
 <div align="center">

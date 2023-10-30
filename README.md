@@ -3,7 +3,7 @@
 <div align="center">
   <!--Avatar-->
   <div align="center">
-  <img src="imagens/Profile.png" alt="Profile Picture">
+  <img src="imagens/ProfileBlack.png" alt="Profile Picture">
 </div>
 
 <br>
@@ -213,7 +213,7 @@ public class MyBio {
 
 <!--Gradient-->
 <div>
-  <img src="imagens/Gradients.svg" alt="Gradients" width="100%">
+  <img src="imagens/Gradients.png" alt="Gradients" width="100%">
 </div>
 <!--Rainbow Gif-->
 <img src="imagens/Rainbow.gif" width="100%">

@@ -33,7 +33,7 @@
 
 <!--Bio-->
 <div align="left">
-<h3>Bio 🌎</h3>
+<img align="left" alt="GIF" src="https://github.com/ErickDaniel7/ErickDaniel7/blob/main/imagens/Bio.gif" width="25" height="25" /><h3>Bio</h3>
   
 ```java
 public class MyBio {
@@ -54,7 +54,7 @@ public class MyBio {
 <div align="center">
   <details> 
 <summary>═ㅤ<b>Languages ​​and tools</b></summary>
-   <h4>Languages ​​I have fun with 🤪</h4>
+ <h4>Languages ​​I have fun with 🤪</h4>
 
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,angular,nodejs)](https://skillicons.dev)
 <!--<img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" height="27">
@@ -85,15 +85,14 @@ public class MyBio {
 
 
 <!--Discord-->
-
-<h3>Discord <img src="https://skillicons.dev/icons?i=discord" height="25"></h3>
+<img align="left" alt="GIF" src="https://github.com/ErickDaniel7/ErickDaniel7/blob/main/imagens/discord.gif" width="30" height="30" /><h3>Discord</h3>
 <div align="left">
  <a href="https://discord.com/users/337384626949718020?">
 <img src="https://lanyard.cnrad.dev/api/337384626949718020?theme=dark&bg=161B22&animated=true&waveColor=000000&waveSpotifyColor=333333&imgStyle=square&idleMessage=Moscando" height="200" width="350">  <!--<img src="https://discord-readme-badge.vercel.app/api?id=337384626949718020" height="80" />--></a></div>
 
 <!--Spotify-->
-<h3>Listening 🎧</h3>
 <div align="left">
+<img align="left" alt="GIF" src="https://github.com/ErickDaniel7/ErickDaniel7/blob/main/imagens/Listening2.gif" width="30" height="25" /><h3>Listening</h3>
   <a href="https://github.com/tthn0/Spotify-Readme">
   <picture>
     <source
@@ -110,9 +109,9 @@ public class MyBio {
 
 <!-- <img src="https://komarev.com/ghpvc/?username=ErickDaniel7&style=for-the-badge&color=000000"> -->
 
-<!--Streak-->
-<h3>Contributions 📉</h3>
-    <div align="left">
+<!--Streak--> 
+<div align="left">
+<img align="left" alt="GIF" src="https://github.com/ErickDaniel7/ErickDaniel7/blob/main/imagens/Pato.gif" width="30" height="30" /><h3>Contributions</h3>
     <img src="https://github-readme-streak-stats-phi-opal.vercel.app/?user=ErickDaniel7&background=161B22&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=ffffff&sideLabels=ffffff&dates=white&fire=white&ring=5D99FE&locale=en&type=svg&hide_border=true"
        alt="My GitHub streak stats"
        height="200"
@@ -143,7 +142,7 @@ public class MyBio {
 <!--Grafico-->
 <div align="left">
 <details>
-  <summary>═ㅤ<b>Grafico Contribuições 📈</b></summary><br>
+  <summary>═ㅤ<b>📈 Grafico Contribuições</b></summary><br>
   
   [![Erick github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=ErickDaniel7&bg_color=161B22&color=5D99FE&line=ffffff&point=000000&area=false&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 </details>
@@ -153,7 +152,7 @@ public class MyBio {
 <!--Snake Commit-->
 <div align="left">
 <details>
-  <summary>═ㅤ<b>Snake Commit 🐍</b></summary>
+  <summary>═ㅤ<b>🐍 Snake Commit</b></summary>
   <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/custom.svg"width="100%" height="100%">
   <!<source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ErickDaniel7/ErickDaniel7/output/github-contribution-grid-snake-dark.svg"width="100%" height="100%">
@@ -168,7 +167,7 @@ public class MyBio {
 <div align="left">
 <!-- Random Wallpaper -->
 <details> 
-  <summary>═ㅤ<b>Wallpaper of the Day 🌠</b></summary><br>
+  <summary>═ㅤ<b>🌠 Wallpaper of the Day</b></summary><br>
 <!--START_SECTION:update_image-->
 <img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/voyager-lofi-exposure.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->

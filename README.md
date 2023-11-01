@@ -54,7 +54,7 @@ public class MyBio {
 <div align="center">
   <details> 
 <summary>═ㅤ<b>Languages ​​and tools</b></summary>
- <h4>Languages ​​I have fun with 🤪</h4>
+ <h4>🤪 Languages ​​I have fun with</h4>
 
    [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,python,angular,nodejs)](https://skillicons.dev)
 <!--<img src="https://img.shields.io/badge/-HTML-E44D26?style=for-the-badge&logo=html5&logoColor=white&labelColor=black" height="27">
@@ -64,7 +64,7 @@ public class MyBio {
 <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white&labelColor=black" height="27">
 <img src="https://img.shields.io/badge/Angular-DD0031.svg?style=for-the-badge&logo=Angular&logoColor=white&labelColor=black" height="27">
 <img src="https://img.shields.io/badge/Node.js-339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white&labelColor=black" height="27">-->
-<h4>Tools I use 🛠️</h4>
+<h4>🛠️ Tools I use</h4>
 
    [![My Tools](https://skillicons.dev/icons?i=figma,vercel,github,heroku,ai,ps,ae,linux,vscode,androidstudio,postgres,prometheus)](https://skillicons.dev)
 

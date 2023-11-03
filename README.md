@@ -120,12 +120,19 @@ public class MyBio {
 </div>
 
 <!--Commit-->
-<div align="left">
+<!--<div align="left">
 <img src="https://github-readme-stats.vercel.app/api?username=ErickDaniel7&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=ffffff&bg_color=161B22&rank_icon=github" 
     alt="Erick github stats" 
     height="200"
     width="480"/>
 </a>
+</div>-->
+
+<div align="left">
+<img src="https://bad-apple-github-readme.vercel.app/api?show_bg=1&username=ErickDaniel7&show_icons=true&count_private=true&hide_border=true&title_color=&icon_color=&text_color=ffffff&bg_color=161B22&rank_icon=github"
+  alt="Erick github stats"
+  height="200"
+  width="480"/>
 </div>
 
   <!--Languages-->

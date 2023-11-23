@@ -7,6 +7,10 @@
 </div>
 
 <br>
+
+<img align="center" src="https://komarev.com/ghpvc/?username=ErickDaniel7&label=VIEWERS+COUNT&color=000000&style=for-the-badge" ><br>
+
+<br>
   
 <!--Social Media-->
 <a href="https://www.youtube.com/@erixkat6541" target="_blank" />

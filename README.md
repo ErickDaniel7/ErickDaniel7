@@ -180,7 +180,7 @@ public class MyBio {
 <details> 
   <summary>═ㅤ<b>🌠 Wallpaper of the Day</b></summary><br>
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/alena-aenami-escape.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/ogarart-purple-trees-2019-02-11.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 </details>
 </div>

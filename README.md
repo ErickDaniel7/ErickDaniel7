@@ -83,7 +83,7 @@ public class MyBio {
   <div align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ErickDaniel7&layout=compact&card_width=495&hide_border=true&title_color=&text_color=ffffff&bg_color=161B22&langs_count=10" 
     alt="Erick langs stats"
-    height="200"
+    height="210"
     width="480"/>
   </div>
   </a>

@@ -35,7 +35,7 @@
 public class MyBio {
     public static void main(String[] args) {
         System.out.println("👋 Olá! Sou Erick Daniel Teixeira Vier.");
-        System.out.println("🎉 Tenho 19 anos.");
+        System.out.println("🎉 Tenho 20 anos.");
         System.out.println("🌆 Sou de Cascavel, Paraná.");
         System.out.println("🎓 Estou cursando Análise e Desenvolvimento de Sistemas. Na Universidade Paranaense Unipar.");
         System.out.println("🚀 Estou mergulhando no mundo da programação e buscando aprimorar minhas habilidades. ❤️");

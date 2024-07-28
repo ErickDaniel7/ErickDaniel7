@@ -120,7 +120,7 @@ public class MyBio {
 <details> 
   <summary>═ㅤ<b>🌠 Wallpaper do dia</b></summary><br>
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/blackwolfshadow1-wolf-of-the-night.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/olly-moss-dadaws-firewatch-bright-moon.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 </details>
 </div>

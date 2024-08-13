@@ -8,7 +8,7 @@
 <a href="https://www.youtube.com/@erixkat6541" target="_blank" />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=black&style=for-the-badge" height="27" alt="youtube logo" /></a>
 
-  <a href="https://www.instagram.com/erickdanielteixeira" target="_blank" />
+  <a href="https://www.instagram.com/erickdaniel__7" target="_blank" />
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=BC2A8D&logoColor=white&labelColor=black&style=for-the-badge" height="27" alt="instagram logo" /></a>
   
   <a href="mailto:erixkat10@gmail.com" target="_blank" />

@@ -120,7 +120,7 @@ public class MyBio {
 <details> 
   <summary>═ㅤ<b>🌠 Wallpaper do dia</b></summary><br>
 <!--START_SECTION:update_image-->
-<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/ogarart-cactus-2019-01-20.jpg height=100% width=100% align=center alt=Daily Wallpaper />
+<img src=https://raw.githubusercontent.com/DenverCoder1/minimalistic-wallpaper-collection/main/images/OGARart-eagle-mountain-sunset-minimalist.jpg height=100% width=100% align=center alt=Daily Wallpaper />
 <!--END_SECTION:update_image-->
 </details>
 </div>
